@@ -17,8 +17,6 @@ get_challenge_api = "http://172.16.202.202/cgi-bin/get_challenge"
 srun_portal_api = "http://172.16.202.202/cgi-bin/srun_portal"
 get_info_api = "http://172.16.202.202/cgi-bin/rad_user_info?callback=jQuery112407705521392353947_1722679644179&_=1722679644183"
 
-#ip=172.16.222.61
-
 
 n = '200'
 type = '1'
